@@ -1,0 +1,42 @@
+{
+  "name": "pick-local-poc",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=24.18.0 <25"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:lan": "node scripts/dev.mjs --lan",
+    "seed": "tsx apps/api/src/seed.ts",
+    "typecheck": "tsc --noEmit -p apps/api && tsc --noEmit -p apps/mobile",
+    "lint": "eslint apps packages scripts",
+    "test": "tsx --test apps/api/test/*.test.ts",
+    "doctor": "npm exec --workspace @pick/mobile -- expo install --check && npm exec --workspace @pick/mobile -- expo-doctor",
+    "export:web": "npm run export:web --workspace @pick/mobile",
+    "export:ios": "npm run export:ios --workspace @pick/mobile",
+    "migrate:queue": "tsx apps/api/src/migrate.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@types/node": "26.6.4",
+    "@types/react": "19.3.0",
+    "eslint": "10.12.0",
+    "expo-doctor": "1.20.4",
+    "toqr": "0.1.1",
+    "tsx": "4.23.15",
+    "typescript": "6.0.3",
+    "typescript-eslint": "8.71.1"
+  },
+  "overrides": {
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-reanimated": "4.5.1",
+    "react-native-worklets": "0.10.1"
+  }
+}

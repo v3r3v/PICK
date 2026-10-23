@@ -1,0 +1,66 @@
+{
+  "created": "2026-10-12",
+  "method": "Built-in image_gen; one generation call per individual asset; no CLI/API fallback",
+  "status": "Original generated representative illustrations. Not OEM assets, trademark-cleared artwork, or verified photographs. Intended generations are approximate; trim details may differ.",
+  "assets": [
+    {
+      "filename": "toyota-sienna-2024-blue.png",
+      "model": "Toyota Sienna",
+      "generation": "Fourth generation, intended 2024 XLE",
+      "color": "Blue",
+      "generated": true,
+      "original": "exec-51cd8d42-84fd-4940-8f10-ac687c797d5a.png",
+      "prompt": "Use case: product-mockup. Create a single original realistic 2D PNG catalog cutout of the FOURTH GENERATION Toyota Sienna (2021–2024), blue metallic 2024 Sienna XLE HYBRID minivan. Critical model identity: NEW fourth generation with sharply sculpted muscular rear haunches and deeply concave side sculpting, narrow slim upper black grille between swept horizontal headlights, small centered Toyota badge, huge low wide trapezoidal black grille with horizontal slats; the lamps have slim hooked outer corners. NOT the third-generation 2015–2020 Sienna with a big chrome V mustache across its nose. Long sliding-door minivan, smooth high roof and silver rails, silver alloy wheels. Elevated front-left three-quarter view, front points toward LEFT, roof visible. Entire car fully visible centered with a minimum 8% EMPTY margin on EVERY edge; car width 84% of landscape 3:2 canvas. Soft neutral studio light, restrained paint reflections, clean catalog realism with crisp recognizable shape. Genuine transparent alpha background, no background color or floor, only tiny neutral contact shadow directly under tires. No checkerboard baked in, no people, captions, watermark or plate lettering. Suggested compact output 1024px wide. Return ONLY this ONE complete car. Transparency must include empty margins and all space around wheels."
+    },
+    {
+      "filename": "honda-civic-2024-blue.png",
+      "model": "Honda Civic",
+      "generation": "Eleventh generation, intended 2024 EX sedan",
+      "color": "Blue",
+      "generated": true,
+      "original": "exec-d3721224-d345-44e9-9d94-f4ddc1e09990.png",
+      "prompt": "Use case: product-mockup. Create ONE original realistic catalog cutout of a metallic blue Honda Civic SEDAN, eleventh generation 2022–2024, depicted as 2024 EX. Model cues: low slim horizontal headlights, narrow black upper grille, small Honda badge, understated clean nose, long low sedan hood, four conventional hinged doors, distinct separate trunk, gently sloping roof and sharp straight shoulder line, silver alloy wheels. Absolutely a compact SEDAN, not hatchback, minivan, crossover or Type R. Elevated front-left three-quarter camera with FRONT POINTING LEFT, see front, driver side and some roof, neutral 70mm product perspective. Whole car centered in 3:2 landscape, fills about 84% width, at least 8% empty margin all edges; no clipping. Soft neutral studio lighting, restrained reflections, realistic medium/deep blue paint and crisp details legible at small size. TRUE TRANSPARENT ALPHA PNG background, empty outside the car, no studio backdrop or floor rectangle, no baked checkerboard, only very faint small contact shadow at tires. No people, lettering, captions, watermark, numberplate text or collage. Prefer compact 1024px-wide output. One vehicle only; preserve accurate distinctive Civic proportions."
+    },
+    {
+      "filename": "kia-sportage-2023-white.png",
+      "model": "Kia Sportage",
+      "generation": "Fifth generation NQ5, intended 2023 North American",
+      "color": "White",
+      "generated": true,
+      "original": "exec-ec287df8-57c2-485d-9903-f8d6f5ff9e08.png",
+      "prompt": "Use case: product-mockup. Create ONE original realistic 2D studio catalog cutout of a WHITE Kia Sportage SUV, fifth generation NQ5, 2023 North American long-wheelbase model. Characteristic large broad black tiger-nose grille, sharply angular BOOMERANG daytime running light outlines flanking the main headlights, angular black wheel arch trim, raised SUV stance, distinctive zigzag rear side window and C-pillar, five doors and silver alloy wheels. Model-specific contemporary Sportage shape, not a generic SUV. Elevated front-left three-quarter camera, FRONT POINTS LEFT; show grille, driver side, and some roof with level wheels. Entire vehicle centered occupying 84% width in 3:2 landscape composition, generous completely empty margins all sides, no clipped mirrors or wheels. White pearl paint with subtle neutral gray shading so body edges stay legible on white or pale paper app surfaces, dark windows and realistic restrained reflections, soft neutral studio light. TRUE TRANSPARENT ALPHA PNG backdrop with no background color, scene, floor rectangle or checkerboard; only very subtle small tire contact shadow. No people, caption, numberplate text, watermark or collage. Prefer compact 1024px-wide output. One vehicle only, catalog realism that reads well in a small thumbnail."
+    },
+    {
+      "filename": "volkswagen-golf-mk8-red.png",
+      "model": "Volkswagen Golf",
+      "generation": "Mk8, intended 2021–2024 standard five-door",
+      "color": "Red",
+      "generated": true,
+      "original": "exec-60ae9947-af34-44b7-a0db-453fe8884805.png",
+      "prompt": "Use case: product-mockup. Create ONE original realistic studio catalog cutout of a RED Volkswagen Golf Mk8 five-door hatchback, 2021–2024 European standard Golf Style, not an SUV or sedan. Characteristic compact two-box Golf proportions, short rear overhang, broad C-pillar, slightly drooping narrow LED headlights connected by a thin grille with centered VW badge, horizontal black lower intake, ordinary silver alloy wheels, four side doors and rear hatch. No rally add-ons, no huge spoiler. Elevated front-left three-quarter camera with front pointing LEFT, showing grille, driver side and some roof; neutral 70mm perspective. Entire vehicle centered on 3:2 landscape canvas with generous empty margins and every wheel/mirror unclipped, about 84% canvas width. Rich red paint, neutral soft studio lighting, restrained reflections, crisp realistic named-model detail visible in small UI thumbnails. TRUE TRANSPARENT ALPHA PNG with no background scene, floor, white rectangle or baked checkerboard. Very faint tight contact shadow at tires only. No people, text, numberplate characters, caption, watermark or collage. Prefer compact 1024px-wide output. One car only."
+    },
+    {
+      "filename": "ford-ranger-2024-silver.png",
+      "model": "Ford Ranger",
+      "generation": "P703, intended 2024 XLT SuperCrew double cab",
+      "color": "Silver",
+      "generated": true,
+      "original": "exec-f4452f29-a6dd-4edf-a3fa-530706c2a90e.png",
+      "prompt": "Use case: product-mockup. Create ONE original realistic studio catalog cutout of a SILVER Ford Ranger double-cab pickup, P703 generation introduced globally in 2022 and in North America as 2024, depicted as 2024 XLT SuperCrew. Critical identity: squared upright Ford truck nose, signature C-CLAMP headlight outlines around rectangular lamps, wide black grille with horizontal crossbar and centered blue Ford oval, substantial boxy fenders, FOUR normal passenger doors in crew cab, separate open short cargo bed, ordinary silver alloy wheels, black tires, no lift kit, no Raptor add-ons, no tonneau cover or roof rack. Elevated front-left three-quarter view, front points LEFT, show grille, driver side and some roof/open bed, neutral 70mm product perspective. Whole truck centered and entirely visible in landscape 3:2 with generous transparent margins all edges, width about 84% of canvas. Metallic silver paint, neutral soft studio lighting, restrained reflections, crisp identifiable Ranger shape at thumbnail size. TRUE TRANSPARENT ALPHA PNG, no background scene/color, no floor rectangle, no baked checkerboard, very faint tight contact shadow beneath tires only. No people, text, plate characters, caption, watermark, collage or extra vehicle. Prefer compact 1024px-wide output."
+    }
+  ],
+  "references": [
+    {
+      "url": "https://dealerimages.dealereprocess.com/image/upload/c_limit%2Cf_auto%2Cfl_lossy%2Cw_auto/v1/svp/dep/24toyotasiennaxle/toyota_24siennaxle_angularfront_predawngraymica",
+      "page": "https://www.sheehyhyundaiwaldorf.com/auto/used-2024-toyota-sienna-xle-near-capitol-heights-md/109104968/",
+      "use": "Visual comparison of Sienna shape only, after generation. Not input to generation or bundled in the app; no reuse license asserted."
+    }
+  ],
+  "discarded": [
+    {
+      "original": "exec-f87a033b-c5a6-41fe-b879-e3f2c8b779b2.png",
+      "prompt": "Use case: product-mockup. Asset: locally bundled vehicle recognition illustration for a school pickup demo. Create ONE realistic studio catalog cutout of a blue Toyota Sienna minivan, fourth generation 2021–2024, depicted as a 2024 XLE. Recognizable long minivan proportions, high roof, sliding-door seams, sculpted side crease, narrow swept headlights, large lower Toyota grille, ordinary silver alloy wheels. Entire vehicle centered, front pointing LEFT, elevated front-left three-quarter camera, showing front and driver side with roof visible; neutral 70mm product perspective. Same framing intended for a five-car catalog: vehicle occupies about 86% of canvas width, generous unclipped margins, level wheels, no perspective exaggeration. Metallic medium/deep blue paint, neutral soft studio lighting, restrained reflections, realistic visible details at thumbnail size. Landscape 3:2 composition, preferably compact 1024px-wide PNG. TRUE TRANSPARENT ALPHA background including corners and around wheels; no background scene or white/gray floor plane, no baked checkerboard. Only a very faint tight contact shadow beneath tires. No people, text, captions, plate characters, collage or watermark. This is a representative generated illustration, not an OEM drawing. Do not make a generic van; prioritize the named Sienna generation's recognizable design.",
+      "reason": "Initial Sienna attempt replaced with clearer generation prompt and more margin."
+    }
+  ]
+}

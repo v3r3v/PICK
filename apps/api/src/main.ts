@@ -1,0 +1,10 @@
+import { resolve } from 'node:path';
+import { SqliteStore } from './store.ts';
+import { createApi } from './http.ts';
+const host = process.env.PICK_API_HOST || '127.0.0.1';
+if (!['127.0.0.1','0.0.0.0'].includes(host)) throw new Error('Use loopback or explicit LAN mode.');
+const port = Number(process.env.PICK_API_PORT || 4100);
+const store = new SqliteStore(resolve(process.env.PICK_DB_PATH || '.local/pick.sqlite'));
+const server = createApi(store, { lanHost: process.env.PICK_LAN_HOST, allowFaults: true });
+server.listen(port, host, () => console.log(`PICK synthetic API listening on ${host}:${port}. SQLite stays private on this computer.`));
+for (const signal of ['SIGINT','SIGTERM'] as const) process.on(signal, () => server.close(() => { store.close(); process.exit(0); }));

@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-12T02:50:02.795691+00:00",
+  "title": "Design System: PICK",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Deep ink",
+        "tonalRamp": [
+          "oklch(15% 0.04320 168.77)",
+          "oklch(26.43% 0.04320 168.77)",
+          "oklch(37.86% 0.04320 168.77)",
+          "oklch(49.29% 0.04320 168.77)",
+          "oklch(60.71% 0.04320 168.77)",
+          "oklch(72.14% 0.04320 168.77)",
+          "oklch(83.57% 0.04320 168.77)",
+          "oklch(95% 0.04320 168.77)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted green-gray",
+        "tonalRamp": [
+          "oklch(15% 0.02706 164.95)",
+          "oklch(26.43% 0.02706 164.95)",
+          "oklch(37.86% 0.02706 164.95)",
+          "oklch(49.29% 0.02706 164.95)",
+          "oklch(60.71% 0.02706 164.95)",
+          "oklch(72.14% 0.02706 164.95)",
+          "oklch(83.57% 0.02706 164.95)",
+          "oklch(95% 0.02706 164.95)"
+        ]
+      },
+      "brand": {
+        "role": "primary",
+        "displayName": "Deep green",
+        "tonalRamp": [
+          "oklch(15% 0.08601 163.65)",
+          "oklch(26.43% 0.08601 163.65)",
+          "oklch(37.86% 0.08601 163.65)",
+          "oklch(49.29% 0.08601 163.65)",
+          "oklch(60.71% 0.08601 163.65)",
+          "oklch(72.14% 0.08601 163.65)",
+          "oklch(83.57% 0.08601 163.65)",
+          "oklch(95% 0.08601 163.65)"
+        ]
+      },
+      "brand-pale": {
+        "role": "primary",
+        "displayName": "Pale green",
+        "tonalRamp": [
+          "oklch(15% 0.01411 155.58)",
+          "oklch(26.43% 0.01411 155.58)",
+          "oklch(37.86% 0.01411 155.58)",
+          "oklch(49.29% 0.01411 155.58)",
+          "oklch(60.71% 0.01411 155.58)",
+          "oklch(72.14% 0.01411 155.58)",
+          "oklch(83.57% 0.01411 155.58)",
+          "oklch(95% 0.01411 155.58)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.00668 115.70)",
+          "oklch(26.43% 0.00668 115.70)",
+          "oklch(37.86% 0.00668 115.70)",
+          "oklch(49.29% 0.00668 115.70)",
+          "oklch(60.71% 0.00668 115.70)",
+          "oklch(72.14% 0.00668 115.70)",
+          "oklch(83.57% 0.00668 115.70)",
+          "oklch(95% 0.00668 115.70)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.00000 89.88)",
+          "oklch(26.43% 0.00000 89.88)",
+          "oklch(37.86% 0.00000 89.88)",
+          "oklch(49.29% 0.00000 89.88)",
+          "oklch(60.71% 0.00000 89.88)",
+          "oklch(72.14% 0.00000 89.88)",
+          "oklch(83.57% 0.00000 89.88)",
+          "oklch(95% 0.00000 89.88)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Soft line",
+        "tonalRamp": [
+          "oklch(15% 0.01276 149.23)",
+          "oklch(26.43% 0.01276 149.23)",
+          "oklch(37.86% 0.01276 149.23)",
+          "oklch(49.29% 0.01276 149.23)",
+          "oklch(60.71% 0.01276 149.23)",
+          "oklch(72.14% 0.01276 149.23)",
+          "oklch(83.57% 0.01276 149.23)",
+          "oklch(95% 0.01276 149.23)"
+        ]
+      },
+      "amber": {
+        "role": "functional",
+        "displayName": "Amber ink",
+        "tonalRamp": [
+          "oklch(15% 0.08992 72.09)",
+          "oklch(26.43% 0.08992 72.09)",
+          "oklch(37.86% 0.08992 72.09)",
+          "oklch(49.29% 0.08992 72.09)",
+          "oklch(60.71% 0.08992 72.09)",
+          "oklch(72.14% 0.08992 72.09)",
+          "oklch(83.57% 0.08992 72.09)",
+          "oklch(95% 0.08992 72.09)"
+        ]
+      },
+      "amber-pale": {
+        "role": "functional",
+        "displayName": "Pale amber",
+        "tonalRamp": [
+          "oklch(15% 0.03775 81.52)",
+          "oklch(26.43% 0.03775 81.52)",
+          "oklch(37.86% 0.03775 81.52)",
+          "oklch(49.29% 0.03775 81.52)",
+          "oklch(60.71% 0.03775 81.52)",
+          "oklch(72.14% 0.03775 81.52)",
+          "oklch(83.57% 0.03775 81.52)",
+          "oklch(95% 0.03775 81.52)"
+        ]
+      },
+      "red": {
+        "role": "functional",
+        "displayName": "Red ink",
+        "tonalRamp": [
+          "oklch(15% 0.12483 26.48)",
+          "oklch(26.43% 0.12483 26.48)",
+          "oklch(37.86% 0.12483 26.48)",
+          "oklch(49.29% 0.12483 26.48)",
+          "oklch(60.71% 0.12483 26.48)",
+          "oklch(72.14% 0.12483 26.48)",
+          "oklch(83.57% 0.12483 26.48)",
+          "oklch(95% 0.12483 26.48)"
+        ]
+      },
+      "red-pale": {
+        "role": "functional",
+        "displayName": "Pale red",
+        "tonalRamp": [
+          "oklch(15% 0.01722 35.34)",
+          "oklch(26.43% 0.01722 35.34)",
+          "oklch(37.86% 0.01722 35.34)",
+          "oklch(49.29% 0.01722 35.34)",
+          "oklch(60.71% 0.01722 35.34)",
+          "oklch(72.14% 0.01722 35.34)",
+          "oklch(83.57% 0.01722 35.34)",
+          "oklch(95% 0.01722 35.34)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "title": {
+        "displayName": "Title",
+        "purpose": "Role-specific task heading; React Native default system family."
+      },
+      "heading": {
+        "displayName": "Heading",
+        "purpose": "Panel or section title."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Descriptions, status and information rows; system scaling remains enabled."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Centered, wrapping action labels."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "native-tab-minimize",
+        "value": "onScrollDown; never while dragging or Reduce Motion",
+        "purpose": "Platform-native iOS behavior; no custom animation token."
+      },
+      {
+        "name": "queue-edge-scroll",
+        "value": "10 logical units per 60ms, bounded to scrollable content",
+        "purpose": "Immediate drag edge scrolling; no animated reorder."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-gutter",
+        "value": "600px"
+      },
+      {
+        "name": "today-two-column",
+        "value": "850px"
+      },
+      {
+        "name": "gate-lane-sidebar",
+        "value": "1050px"
+      },
+      {
+        "name": "vehicle-gallery-two-column",
+        "value": "650px"
+      },
+      {
+        "name": "vehicle-gallery-three-column",
+        "value": "1000px"
+      }
+    ],
+    "extraction": {
+      "sources": [
+        "apps/mobile/src/ui.tsx",
+        "apps/mobile/src/queue-screen.tsx",
+        "apps/mobile/src/vehicle-art.tsx",
+        "apps/mobile/src/arrival.tsx",
+        "apps/mobile/src/zone-tools.tsx",
+        "apps/mobile/src/navigation.tsx",
+        "apps/mobile/src/navigation.ios.tsx",
+        "apps/mobile/src/trip-screen.tsx",
+        "packages/contracts/src/index.ts",
+        "apps/mobile/src/vehicle-catalog.ts",
+        "apps/mobile/src/vehicle-gallery.tsx",
+        "apps/mobile/app/demo.tsx",
+        "apps/mobile/assets/vehicles/README.md",
+        "apps/mobile/assets/vehicles/manifest.json"
+      ],
+      "tonalRamps": "Synthesized OKLCH display aids at the extracted hue/chroma; not new application tokens.",
+      "nativeUnits": "React Native logical units are represented as portable CSS pixels.",
+      "previewScope": "HTML/CSS translations are standalone visual samples, not React Native behavior or native parity evidence."
+    },
+    "verification": {
+      "reviewImages": [
+        ".impeccable/review/vehicles/desktop.png",
+        ".impeccable/review/vehicles/mobile.png",
+        ".impeccable/review/vehicles/gallery-desktop.png",
+        ".impeccable/review/vehicles/details-desktop.png",
+        ".impeccable/review/vehicles/details-mobile.png",
+        ".impeccable/review/poc2/teacher.png"
+      ],
+      "limits": [
+        "Updated vehicle presentation inspected in real browser captures at 1280 by 720 and 390 by 844; these are not physical iPhone evidence.",
+        "Native iOS/Android material, safe areas, scaling, drag interaction and pageSheet require physical-device verification.",
+        "Generated artwork is representative; generation and trim fidelity are approximate, and it does not verify an assigned vehicle or driver."
+      ]
+    },
+    "interaction": {
+      "button": {
+        "hoverOpacity": 0.85,
+        "pressedOpacity": 0.85,
+        "disabledOpacity": 0.48,
+        "focusOutline": "3px solid #176347",
+        "focusOutlineOffset": "3px",
+        "minimumHeight": "50px"
+      },
+      "demoSwitch": {
+        "minimumHeight": "48px",
+        "track": "44px × 28px",
+        "thumb": "20px",
+        "singleAccessibleControl": true
+      },
+      "accountRow": {
+        "minimumHeight": "84px"
+      },
+      "queue": {
+        "dragHandle": "48 logical units wide; minimum height 64",
+        "inspectionMinimumHeight": 120,
+        "accessibleReorder": "Forward and Back buttons with plate-specific accessible labels",
+        "proposal": "Green insertion mark; explicit refreshed-lane retry after conflict",
+        "sheet": "Native pageSheet; no entry animation; explicit close control"
+      },
+      "navigation": {
+        "ios": "Expo Router native tabs with SF Symbols; platform system material where available",
+        "reduceTransparency": "Solid white and no blur",
+        "reduceMotion": "Never minimize",
+        "dragging": "Never minimize"
+      },
+      "location": {
+        "default": "Explicit foreground device request",
+        "simulation": "Labeled simulated samples in Demo tools; no device read",
+        "field": "Demo zone numeric radius with native focus behavior"
+      },
+      "vehicleArtwork": {
+        "thumbnail": "118px by 84px; fixed frame; contain; no fade",
+        "large": "100% width, maximum 480px, aspect ratio 1.5; contain",
+        "source": "Five statically bundled transparent PNGs in apps/mobile/assets/vehicles; no remote image service or runtime 3D",
+        "matching": "Known fixture ID plus exact model, color and body",
+        "fallback": "Labeled generic Feather truck for unknown or changed assignments and failed image loads",
+        "identity": "Model, color and plate alongside thumbnail; synthetic initial avatar and driver below",
+        "gallery": "31% from 1000px, 47% from 650px, 100% below; 16px gap; review only"
+      }
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Shared action control; hover/press, keyboard focus and disabled states mirror the source.",
+      "html": "<button type=\"button\" class=\"ds-button\">Approve this pickup</button>",
+      "css": ".ds-button{font:600 16px/22px system-ui,sans-serif;min-height:50px;border:0;border-radius:12px;padding:13px 18px;display:flex;align-items:center;justify-content:center;gap:10px;text-align:center;white-space:normal;cursor:pointer}.ds-button:hover,.ds-button:active{opacity:.85}.ds-button:focus-visible{outline:3px solid #176347;outline-offset:3px}.ds-button:disabled{opacity:.48;cursor:default}.ds-button{background:#176347;color:#ffffff}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Shared action control; hover/press, keyboard focus and disabled states mirror the source.",
+      "html": "<button type=\"button\" class=\"ds-button\">Keep current plan</button>",
+      "css": ".ds-button{font:600 16px/22px system-ui,sans-serif;min-height:50px;border:0;border-radius:12px;padding:13px 18px;display:flex;align-items:center;justify-content:center;gap:10px;text-align:center;white-space:normal;cursor:pointer}.ds-button:hover,.ds-button:active{opacity:.85}.ds-button:focus-visible{outline:3px solid #176347;outline-offset:3px}.ds-button:disabled{opacity:.48;cursor:default}.ds-button{background:#e5efe8;color:#176347}"
+    },
+    {
+      "name": "Danger Button",
+      "kind": "button",
+      "refersTo": "button-danger",
+      "description": "Shared action control; hover/press, keyboard focus and disabled states mirror the source.",
+      "html": "<button type=\"button\" class=\"ds-button\">Confirm this action</button>",
+      "css": ".ds-button{font:600 16px/22px system-ui,sans-serif;min-height:50px;border:0;border-radius:12px;padding:13px 18px;display:flex;align-items:center;justify-content:center;gap:10px;text-align:center;white-space:normal;cursor:pointer}.ds-button:hover,.ds-button:active{opacity:.85}.ds-button:focus-visible{outline:3px solid #176347;outline-offset:3px}.ds-button:disabled{opacity:.48;cursor:default}.ds-button{background:#993d37;color:#ffffff}"
+    },
+    {
+      "name": "Danger Secondary Button",
+      "kind": "button",
+      "refersTo": "button-danger-secondary",
+      "description": "Shared action control; hover/press, keyboard focus and disabled states mirror the source.",
+      "html": "<button type=\"button\" class=\"ds-button\">Report uncertain custody</button>",
+      "css": ".ds-button{font:600 16px/22px system-ui,sans-serif;min-height:50px;border:0;border-radius:12px;padding:13px 18px;display:flex;align-items:center;justify-content:center;gap:10px;text-align:center;white-space:normal;cursor:pointer}.ds-button:hover,.ds-button:active{opacity:.85}.ds-button:focus-visible{outline:3px solid #176347;outline-offset:3px}.ds-button:disabled{opacity:.48;cursor:default}.ds-button{background:#fbece8;color:#993d37}"
+    },
+    {
+      "name": "Custody panel",
+      "kind": "card",
+      "refersTo": "custody-confirmed",
+      "description": "Identity and recorded holder stay prominent; uncertainty changes both wording and tone.",
+      "html": "<section class=\"ds-custody\"><div class=\"ds-identity\"><span class=\"ds-initials\">LR</span><div><strong class=\"ds-child\">Leo Rivera</strong><div class=\"ds-context\">Today’s school-to-home pickup</div></div></div><div class=\"ds-holder\"><strong>Confirmed custody</strong><strong class=\"ds-holder-name\">Cedar Grove School</strong><span class=\"ds-context\">The child is under school supervision.</span></div></section>",
+      "css": ".ds-custody{font:16px/24px system-ui,sans-serif;background:#e5efe8;color:#18382d;border-radius:16px;padding:24px;display:grid;gap:16px}.ds-identity{display:flex;align-items:center;gap:16px}.ds-initials{display:grid;place-items:center;flex:none;width:62px;height:62px;border-radius:20px;background:#ffffffa8;font-size:24px;font-weight:600}.ds-child{font-size:25px;line-height:32px;font-weight:700}.ds-context{color:#53665d}.ds-holder{border-top:1px solid #bfd4c6;padding-top:16px;display:grid;gap:4px}.ds-holder-name{font-size:22px;line-height:30px;font-weight:600}"
+    },
+    {
+      "name": "Warning banner",
+      "kind": "custom",
+      "refersTo": "banner-warning",
+      "description": "Alert text and icon expose a hold or uncertainty without relying on color.",
+      "html": "<div class=\"ds-banner\" role=\"alert\"><svg width=\"19\" height=\"19\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 8v4m0 4h.01\"/></svg><span>Custody actions are unavailable. Resume the connection in Demo tools.</span></div>",
+      "css": ".ds-banner{display:flex;align-items:flex-start;gap:10px;padding:16px;border-radius:12px;background:#fff0d6;color:#785014;font:16px/24px system-ui,sans-serif}.ds-banner svg{flex:none}"
+    },
+    {
+      "name": "Bottom navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Web/Android labeled-tab visual translation; iOS uses native SF Symbols and system material. This HTML does not simulate native glass.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"PICK\"><a href=\"#today\" aria-current=\"page\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"4\"/><path d=\"M12 2v2m0 16v2M2 12h2m16 0h2M4.93 4.93l1.42 1.42m11.3 11.3 1.42 1.42M4.93 19.07l1.42-1.42m11.3-11.3 1.42-1.42\"/></svg><span>Today / Queue</span></a><a href=\"#timeline\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"12\" r=\"10\"/><path d=\"M12 6v6l4 2\"/></svg><span>Timeline</span></a><a href=\"#demo\"><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" aria-hidden=\"true\"><path d=\"M4 21v-7m0-4V3m8 18v-9m0-4V3m8 18v-5m0-4V3M1 14h6m2-6h6m2 8h6\"/></svg><span>Demo tools</span></a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;min-height:64px;padding:7px 0;background:#fff;border-top:1px solid #d7dfd8;font:600 12px/18px system-ui,sans-serif}.ds-nav a{display:flex;justify-content:center;align-items:center;gap:8px;flex:1;min-height:48px;color:#53665d;text-decoration:none}.ds-nav a[aria-current]{color:#176347}.ds-nav a:focus-visible{outline:2px solid currentColor;outline-offset:-2px}.ds-nav a:hover,.ds-nav a:active{opacity:.85}"
+    },
+    {
+      "name": "Demo badge",
+      "kind": "chip",
+      "description": "Static synthetic-context marker, not a selectable filter.",
+      "html": "<span class=\"ds-badge\">Demo</span>",
+      "css": ".ds-badge{display:inline-block;font:400 12px/24px system-ui,sans-serif;color:#53665d;background:#e8ece6;padding:1px 8px;border-radius:5px}"
+    },
+    {
+      "name": "Demo zone radius",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Numeric review-only radius; the app delegates focus rendering to its native TextInput.",
+      "html": "<label class=\"ds-zone-label\">Radius in meters (25–500)<input class=\"ds-zone\" type=\"number\" min=\"25\" max=\"500\" value=\"100\" aria-label=\"Demo pickup zone radius in meters\"></label>",
+      "css": ".ds-zone-label{display:grid;gap:12px;color:#18382d;font:16px/24px system-ui,sans-serif}.ds-zone{min-height:48px;border:1px solid #d7dfd8;border-radius:8px;padding:12px;color:#18382d;background:transparent;font:16px system-ui,sans-serif}.ds-zone:hover{border-color:#53665d}.ds-zone:focus-visible{outline:auto}"
+    },
+    {
+      "name": "Numbered lane vehicle",
+      "kind": "custom",
+      "refersTo": "lane-vehicle",
+      "description": "Confirmed lane identity with a distinct position, written vehicle identity and driver initials. This standalone sample shows the implemented image-unavailable fallback; the app normally renders locally bundled generated named-model PNGs. Static preview does not reorder.",
+      "html": "<article class=\"ds-lane\"><div class=\"ds-lane-main\"><b class=\"ds-position\">1</b><div class=\"ds-identity-body\"><div class=\"ds-vehicle-row\"><div class=\"ds-art-fallback\" role=\"img\" aria-label=\"Generic vehicle placeholder. Model illustration unavailable for Blue Toyota Sienna\"><svg width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><rect x=\"1\" y=\"3\" width=\"15\" height=\"13\"/><path d=\"M16 8h4l3 3v5h-7\"/><circle cx=\"5.5\" cy=\"18.5\" r=\"2.5\"/><circle cx=\"18.5\" cy=\"18.5\" r=\"2.5\"/></svg><span>Generic vehicle</span><small>Image unavailable</small></div><div class=\"ds-vehicle-copy\"><strong>Toyota Sienna</strong><span>Blue</span><b>PICK 024</b></div></div><span class=\"ds-driver\"><span class=\"ds-avatar\">DC</span><span>Daniel Cruz<br><small>Waiting · student ready</small></span></span><small>Leo Rivera · Ready</small></div></div><div class=\"ds-lane-actions\"><button disabled>Forward</button><button>Back</button></div></article>",
+      "css": ".ds-lane{border:1px solid #d7dfd8;border-radius:12px;padding:12px;background:white;color:#18382d;font:16px/24px system-ui,sans-serif;display:grid;gap:8px}.ds-lane-main{display:flex;align-items:center;min-height:120px}.ds-position{width:32px;flex:none;font-size:22px;text-align:center}.ds-identity-body{display:grid;gap:8px;flex:1;min-width:0}.ds-vehicle-row{display:flex;align-items:center;gap:10px}.ds-art-fallback{width:118px;height:84px;flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;background:#f5f6f1;border-radius:8px;color:#53665d;font-size:12px;line-height:16px;text-align:center}.ds-art-fallback small{font-size:11px;line-height:14px}.ds-vehicle-copy{display:grid;gap:5px;min-width:0;flex:1}.ds-vehicle-copy strong{font-size:18px}.ds-vehicle-copy>span{color:#53665d}.ds-driver{display:flex;align-items:center;gap:8px}.ds-avatar{display:grid;place-items:center;width:42px;height:42px;flex:none;border-radius:21px;background:#e5efe8;font-weight:700}.ds-identity-body>small,.ds-driver small{font-size:13px;color:#53665d}.ds-lane-actions{display:flex;gap:8px;flex-wrap:wrap}.ds-lane-actions button{min-height:50px;border:0;border-radius:12px;padding:13px 18px;background:#e5efe8;color:#176347;font:600 16px/22px system-ui,sans-serif;cursor:pointer}.ds-lane-actions button:hover,.ds-lane-actions button:active{opacity:.85}.ds-lane-actions button:focus-visible{outline:3px solid #176347;outline-offset:3px}.ds-lane-actions button:disabled{opacity:.48;cursor:default}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The custody handoff slip",
+    "overview": "A restrained, native-feeling interface gives each adult a clear identity, the current recorded custody, and the next authorized action. Paper surfaces and deep green make the synthetic afternoon journey readable; explicit wording carries uncertainty instead of relying on color.\n\nThis is the implemented visual system of the authorized, code-first local Expo POC. It retains the established paper-and-green world as the gate lane and classroom preparation views extend it. System typography, quiet grouping and recorded sequences support accessible gate-side work. School custody stays explicit while physical traffic order and class preparation share the authoritative record.\n\nThe original custody-handoff-slip direction remains the anchor. Queue imagery now uses original, locally bundled generated raster illustrations of named vehicle models and synthetic initial avatars. Recognizable model shape and paint supplement the written plate and physical driver check; these are representative illustrations, never photographs of the assigned vehicles. Generation and trim details remain approximate.",
+    "keyCharacteristics": [
+      "Current recorded holder and uncertainty lead the content.",
+      "Deep green and paper support restrained, readable task flows.",
+      "System text and large controls support platform familiarity.",
+      "Tonal grouping and space provide depth without decorative effects.",
+      "Physical lane position, classroom priority and custody remain distinct and explicitly labeled."
+    ],
+    "rules": [
+      {
+        "name": "The Recorded State Rule",
+        "body": "Color supports the written custody status; a green surface never substitutes for a statement of who is recorded as holding the child.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do lead custody views with the recorded holder and explicit uncertainty.",
+      "Do keep the compact parent's pickup plan before the approval action.",
+      "Do use text and icons with state colors.",
+      "Do keep bay, confirmed lane and unconfirmed arrivals visibly distinct.",
+      "Do label class preparation sequence separately from global vehicle position.",
+      "Do pair representative named-model illustrations with written identity and physical checks.",
+      "Do preserve scalable text, wrapping labels and large interaction targets.",
+      "Do keep technical review controls in Demo tools.",
+      "Do verify native behavior on devices before claiming native readiness."
+    ],
+    "donts": [
+      "Don't imply background tracking, verified vehicle identity or release authority from a location announcement or queue position.",
+      "Don't hide unresolved custody behind a confirmed-looking label.",
+      "Don't treat browser captures as evidence of native OS behavior.",
+      "Don't introduce a new font, decorative shadow or custom glass treatment as though it were an established token."
+    ]
+  }
+}
